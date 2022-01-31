@@ -1,27 +1,15 @@
 # Cypress test suite
 
-I'm use Cypress e2e test framework for integration tests
-
-https://www.cypress.io/
+I'm use [Cypress](https://www.cypress.io) e2e test framework for integration tests
 
 ### Installation
 
-You should have node.js to run tests:
+You should have [Node.js](https://nodejs.org/) to run tests
+
+Install dependencies:
 
 ```shr
-brew install node
-```
-
-Make sure that you have already run:
-
-```shr
-$ npm init
-```
-
-Install Cypress:
-
-```shr
-$ npm install cypress --save-dev
+npm install
 ```
 
 Open Cypress:
