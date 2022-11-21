@@ -1,6 +1,6 @@
-# Cypress test suite
+# Cypress Sauce Labs Demo test suite
 
-I'm use [Cypress](https://www.cypress.io) e2e test framework for integration tests
+I'm use [Cypress](https://www.cypress.io) e2e test framework for integration tests on [Saucedemo](https://www.saucedemo.com/)
 
 ### Installation
 
