@@ -6,10 +6,16 @@ I'm use [Cypress](https://www.cypress.io) e2e test framework for integration tes
 
 You should have [Node.js](https://nodejs.org/) to run tests
 
+Clone repository:
+
+```shr
+git clone https://github.com/pdx-rico/saucedemo-cypress.git
+```
+
 Install dependencies:
 
 ```shr
-npm install
+npm i
 ```
 
 Open Cypress:
