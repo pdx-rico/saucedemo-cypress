@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/pdx-rico/cypress#readme",
   "devDependencies": {
-    "cypress": "^9.4.0"
+    "cypress": "^13.3.2"
   }
 }
